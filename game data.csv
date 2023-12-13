@@ -1,0 +1,131 @@
+[
+  {
+  	"title": "Witcher 3",
+  	"developer": "CD PROJEKT RED",
+  	"genres": [
+      "Open World",
+      "RPG",
+      "Story Rich",
+      "Atmospheric"
+    ],
+    "price": 39.99,
+    "quantity": 5,
+    "rating": 9
+  },
+  {
+  	"title": "Persona 5 Royal",
+  	"developer": "ATLUS",
+  	"genres": [
+      "JRPG",
+      "Story Rich",
+      "Anime",
+      "Turn-Based Combat"
+    ],
+    "price": 59.99,
+    "quantity": 7,
+    "rating": 9
+  },
+  {
+  	"title": "Terraria",
+  	"developer": "Re-Logic",
+  	"genres": [
+      "Open World Survival Craft",
+      "Sandbox",
+      "Survival",
+      "2D"
+    ],
+    "price": 9.99,
+    "quantity": 15,
+    "rating": 10
+  },
+  {
+  	"title": "Elden Ring",
+  	"developer": "FromSoftware Inc.",
+  	"genres": [
+      "Souls-like",
+      "Dark Fantasy",
+      "Open World",
+      "RPG"
+    ],
+    "price": 59.99,
+    "quantity": 0,
+    "rating": 10
+  },
+  {
+  	"title": "Baldur's Gate III",
+  	"developer": "Larian Studios",
+  	"genres": [
+      "RPG",
+      "Choices Matter",
+      "Story Rich",
+      "Adventure"
+    ],
+    "price": 59.99,
+    "quantity": 0,
+    "rating": 10
+  },
+  {
+  	"title": "The Legend of Heroes: Trails of Cold Steel IV",
+  	"developer": "Nihon Falcom",
+  	"genres": [
+      "RPG",
+      "JRPG",
+      "Anime",
+      "Story Rich"
+    ],
+    "price": 59.99,
+    "quantity": 10,
+    "rating": 10
+  },
+  {
+  	"title": "Valheim",
+  	"developer": "Iron Gate AB",
+  	"genres": [
+      "Open World Survival Craft",
+      "Survival",
+      "Online Co-Op",
+      "Open World"
+    ],
+    "price": 19.99,
+    "quantity": 12,
+    "rating": 8
+  },
+  {
+  	"title": "Counter-Strike 2",
+  	"developer": "Valve",
+  	"genres": [
+      "FPS",
+      "Shooter",
+      "Multiplayer",
+      "Competitive"
+    ],
+    "price": 0,
+    "quantity": 0,
+    "rating": 9
+  },
+  {
+  	"title": "Beat Saber",
+  	"developer": "Beat Games",
+  	"genres": [
+      "VR",
+      "Rhythm",
+      "Music",
+      "Moddable"
+    ],
+    "price": 29.99,
+    "quantity": 14,
+    "rating": 9
+  },
+  {
+  	"title": "Hades",
+  	"developer": "Supergiant Games",
+  	"genres": [
+      "Action Roguelike",
+      "Roguelite",
+      "Hack and Slash",
+      "Indie"
+    ],
+    "price": 24.99,
+    "quantity": 33,
+    "rating": 8
+  }
